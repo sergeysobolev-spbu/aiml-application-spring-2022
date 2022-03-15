@@ -1,7 +1,8 @@
 import numpy as np
-#from scipy import optimize
+from scipy import optimize
 from scipy.optimize import basinhopping
 import matplotlib.pyplot as plt
+
 
 #длина пути по заданному маршруту
 def distance_along_the_route(points,route):

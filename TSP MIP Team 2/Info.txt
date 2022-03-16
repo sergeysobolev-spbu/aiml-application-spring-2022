@@ -1,0 +1,14 @@
+- Team 2
+Suvorov Danil & Romanova Alina
+
+- Problem 
+Travelling Salesman Problem
+
+- Technology
+GitHub
+Sagemaker Studio Lab
+Anaconda
+Jypiter Notebook
+Python-MIP
+
+Python-MIP is a collection of Python tools for the modeling and solution of Mixed-Integer Linear programs (MIPs).

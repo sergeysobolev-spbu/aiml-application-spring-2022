@@ -20,3 +20,11 @@ clone this directory somewhere and run following commands from terminal:
     ./download_models.sh
     
 then run ``tsp_100.ipynb`` notebook with ``gsp-tpv-env`` kernel
+
+raw data could be converted to GoogleTSP format with ``raw_converter.py``
+
+put coordinates in range [0..4000] to file ``data/raw_data.txt`` and then run following commands from terminal:
+
+    cd data
+    python raw_converter.py
+
